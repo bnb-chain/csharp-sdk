@@ -16,9 +16,9 @@ SDK supports:
 - Creating Wallets
 - Creating Signature
 - Broadcast to Binance DEX chain
-- HTTP API (https://binance-chain.github.io/api-reference/dex-api/paths.html)
-- WebSockets Streams (https://binance-chain.github.io/api-reference/dex-api/ws-streams.html)
-- Node RPC (https://docs.binance.org/api-reference/node-rpc.html)
+- HTTP API (https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/dex-api/paths)
+- WebSockets Streams (https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/dex-api/ws-streams)
+- Node RPC (https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/node-rpc)
 
 Wallet
 ------
